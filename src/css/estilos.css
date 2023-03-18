@@ -94,7 +94,7 @@ main::after {
 }
 .carrossel .imagem {
     width: 100%;
-    height: 100%;
+    height: 100vb;
     object-fit: cover;
     display: none;
     animation: mudarImagem 0.7s;
